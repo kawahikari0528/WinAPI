@@ -90,7 +90,6 @@ int FirstWindow::main(HINSTANCE hinstance, WNDPROC WndProc)
 		DispatchMessageA(&msg);
 	}
 	return 0;
-	return 0;
 }
 
 
