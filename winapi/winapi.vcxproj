@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Drawing.cpp" />
     <ClCompile Include="FirstWindow.cpp" />
     <ClCompile Include="HelloWindows.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Drawing.h" />
     <ClInclude Include="FirstWindow.h" />
     <ClInclude Include="HelloWindows.h" />
   </ItemGroup>
